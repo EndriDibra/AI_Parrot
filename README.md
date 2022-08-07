@@ -3,6 +3,6 @@ This code is done in Python programming language. It is a NLP program (Speech to
 
 Install speechrecognition, gTTS, playsound libraries on your terminal.
 Type this:
-pip install speechrecognition
-pip install gTTS
+pip install speechrecognition,
+pip install gTTS,
 pip install playsound
